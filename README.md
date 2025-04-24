@@ -55,5 +55,3 @@
 
 # Certificates:
 <img align="center" width="400" src="https://i.imgur.com/sqZmEum.jpeg">
-
-
