@@ -62,12 +62,6 @@
 </table>
 
 # Certificates:
+<img align="center" width="400" src="https://i.imgur.com/sqZmEum.jpeg">
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-# Certificates:
-
-<img align="right" width="400" src="https://i.imgur.com/sqZmEum.jpeg">
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-</p>
 
