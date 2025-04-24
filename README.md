@@ -7,8 +7,6 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-> ✍ Tôi là Ủy viên BCH Trung Ương Hội Sinh Viên Việt Nam Nhiệm kỳ 2023 - 2028, Phó Chủ tịch Hội Sinh Viên Việt Nam Trường Đại Học Đà Lạt 2023 - 2025, và Chủ Nhiệm CLB Sinh Viên Tình Nguyện DLU.
-
 <br />
 
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
